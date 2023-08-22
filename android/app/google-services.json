@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "232805926692",
+    "firebase_url": "https://mr-taxi-6653a-default-rtdb.firebaseio.com",
+    "project_id": "mr-taxi-6653a",
+    "storage_bucket": "mr-taxi-6653a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232805926692:android:49da1c73aeab8ab83a15b1",
+        "android_client_info": {
+          "package_name": "com.example.driver_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232805926692-eo04avb9k6k0qq5mbjg3mp8vnkbt6ho7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcX0nkLLWDd__6UAMx2sVNUEvUr8cJvL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232805926692-eo04avb9k6k0qq5mbjg3mp8vnkbt6ho7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "232805926692-k5j2rsv983hegi9nq76aha9ir6u84n3g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.uberProject"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232805926692:android:6317a2ea1ca282393a15b1",
+        "android_client_info": {
+          "package_name": "com.example.uber_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232805926692-eo04avb9k6k0qq5mbjg3mp8vnkbt6ho7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcX0nkLLWDd__6UAMx2sVNUEvUr8cJvL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232805926692-eo04avb9k6k0qq5mbjg3mp8vnkbt6ho7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "232805926692-k5j2rsv983hegi9nq76aha9ir6u84n3g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.uberProject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
